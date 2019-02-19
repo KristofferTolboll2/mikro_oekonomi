@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import CKEditor from '@ckeditor/ckeditor5-react';
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 import {Helmet} from 'react-helmet'
+import Calculation from './Calculations/Calculation';
 
 export default class Content extends Component {
     state= {
@@ -33,6 +34,8 @@ export default class Content extends Component {
            
                 <p>Vi løser dine ligninger og giver dig karakterstigninger</p>
                 <button type="button" class="btn btn-warning">Warning</button>
+
+                <Calculation />
             </div>
  
       </div>
