@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mikro_oekonomi/precache-manifest.b6c309b6a51c995f439a35ac9b0c2380.js"
+  "/mikro_oekonomi/precache-manifest.b11b09375985fa05b8dcd8e316b8b158.js"
 );
 
 workbox.clientsClaim();

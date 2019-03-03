@@ -1,14 +1,14 @@
 {
-  "main.css": "/mikro_oekonomi/static/css/main.b856b05b.chunk.css",
-  "main.js": "/mikro_oekonomi/static/js/main.0e759e21.chunk.js",
-  "main.js.map": "/mikro_oekonomi/static/js/main.0e759e21.chunk.js.map",
+  "main.css": "/mikro_oekonomi/static/css/main.3b0ffd45.chunk.css",
+  "main.js": "/mikro_oekonomi/static/js/main.768834f8.chunk.js",
+  "main.js.map": "/mikro_oekonomi/static/js/main.768834f8.chunk.js.map",
   "runtime~main.js": "/mikro_oekonomi/static/js/runtime~main.d9341405.js",
   "runtime~main.js.map": "/mikro_oekonomi/static/js/runtime~main.d9341405.js.map",
-  "static/js/2.cc696247.chunk.js": "/mikro_oekonomi/static/js/2.cc696247.chunk.js",
-  "static/js/2.cc696247.chunk.js.map": "/mikro_oekonomi/static/js/2.cc696247.chunk.js.map",
+  "static/js/2.7fba20a9.chunk.js": "/mikro_oekonomi/static/js/2.7fba20a9.chunk.js",
+  "static/js/2.7fba20a9.chunk.js.map": "/mikro_oekonomi/static/js/2.7fba20a9.chunk.js.map",
   "index.html": "/mikro_oekonomi/index.html",
-  "precache-manifest.b6c309b6a51c995f439a35ac9b0c2380.js": "/mikro_oekonomi/precache-manifest.b6c309b6a51c995f439a35ac9b0c2380.js",
+  "precache-manifest.b11b09375985fa05b8dcd8e316b8b158.js": "/mikro_oekonomi/precache-manifest.b11b09375985fa05b8dcd8e316b8b158.js",
   "service-worker.js": "/mikro_oekonomi/service-worker.js",
-  "static/css/main.b856b05b.chunk.css.map": "/mikro_oekonomi/static/css/main.b856b05b.chunk.css.map",
+  "static/css/main.3b0ffd45.chunk.css.map": "/mikro_oekonomi/static/css/main.3b0ffd45.chunk.css.map",
   "static/media/logo.svg": "/mikro_oekonomi/static/media/logo.ee7cd8ed.svg"
 }
