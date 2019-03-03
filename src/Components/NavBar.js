@@ -13,7 +13,7 @@ export default class NavBar extends Component {
 render() {
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <>
  <Navbar bg="light" expand="lg">
   <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
